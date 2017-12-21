@@ -1159,17 +1159,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
+     inkscape:zoom="0.70710678"
      inkscape:cx="-2103.78"
-     inkscape:cy="2027.6798"
+     inkscape:cy="2028.3869"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1600"
-     inkscape:window-height="1139"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1148"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata6454">
@@ -1179,7 +1179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1677,7 +1677,10 @@
     </g>
     <g
        id="g7487-5"
-       transform="translate(-791.82397,-1919.8201)">
+       transform="translate(-791.82397,-1919.8201)"
+       inkscape:export-filename="C:\Backup\Projects\hexengine\3DTest\Resources\Units\floating_slime@3x.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270">
       <ellipse
          ry="14.285714"
          rx="32.993198"
@@ -1726,7 +1729,10 @@
     </g>
     <g
        id="g7243-9"
-       transform="translate(-899.09767,-2151.0808)">
+       transform="translate(-899.09767,-2151.0808)"
+       inkscape:export-filename="C:\Backup\Projects\hexengine\3DTest\Resources\Units\slime@3x.png"
+       inkscape:export-xdpi="280"
+       inkscape:export-ydpi="280">
       <path
          sodipodi:nodetypes="sssss"
          inkscape:connector-curvature="0"
@@ -1763,7 +1769,10 @@
     </g>
     <g
        id="g9276"
-       transform="translate(-632.14286,-299.28571)">
+       transform="translate(-632.14286,-299.28571)"
+       inkscape:export-filename="C:\Backup\Projects\hexengine\3DTest\Resources\Units\spear_larva@3x.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270">
       <ellipse
          ry="10.535714"
          rx="20.625"
@@ -2296,7 +2305,10 @@
     </g>
     <g
        id="g10259"
-       transform="translate(-137.85714,6.4285714)">
+       transform="translate(-137.85714,6.4285714)"
+       inkscape:export-filename="C:\Backup\Projects\hexengine\3DTest\Resources\Units\larva@3x.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270">
       <path
          id="path9259-3"
          d="m -2103.8953,-905.49607 a 8.9115257,6.2425656 0 0 0 -8.9121,6.24414 8.9115257,6.2425656 0 0 0 7.666,6.17383 14.846171,10.283175 0 0 0 11.1191,7.86718 17.876629,8.6416779 0 0 0 16.2637,5.08008 17.876629,8.6416779 0 0 0 17.877,-8.64062 17.876629,8.6416779 0 0 0 -16.2598,-8.60352 14.846171,10.283175 0 0 0 -14.4961,-8.11914 14.846171,10.283175 0 0 0 -7.5586,1.44531 8.9115257,6.2425656 0 0 0 -5.6992,-1.44726 z"
